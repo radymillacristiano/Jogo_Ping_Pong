@@ -1,4 +1,4 @@
-# Jogo_Pong
+# Jogo Ping Pong
 
 ![image](https://github.com/radymillacristiano/Jogo_Ping_Pong/assets/88601069/1aac3f29-2d6a-43a2-84b0-1c3e417727d9)
 
@@ -10,7 +10,7 @@
 -  Contagem de pontos
 -  Efeitos sonoros e música de fundo
 
-📌 Link do projeto
+📌 Links do projeto
 
 Vercel: https://jogo-pong-fqzupk9n5-radymilla-cristianos-projects.vercel.app/
 
